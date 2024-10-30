@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Samar-Ali-Ansari<br>👀 I’m interested in Full Stack Development and Data Science<br>🌱 I’m currently learning Full Stack Development<br>💞️ I’m looking to collaborate on projects regarding my interest<br>📫 How to reach me samardotexe@gmail.com<br>🌱 Work email : work4samar@gmail.com<br>😄 Pronouns: He/him<br>⚡ Fun fact: I code bugs
+👋 Hi, I’m @Samar-Ali-Ansari<br>👀 I’m interested in Full Stack Development and AI <br>🌱 I’m currently learning Full Stack Development<br>💞️ I’m looking to collaborate on projects regarding my interest<br>📫 How to reach me samardotexe@gmail.com<br>🌱 Work email : work4samar@gmail.com<br>😄 Pronouns: He/him<br>⚡ Fun fact: I code bugs
 
 
 ## 🌐 Socials:
