@@ -10,7 +10,7 @@
 
 <hr>
 <h3 align="center">Connect with me:</h3>
-<p align="center"> <a href="https://twitter.com/samardotexe" target="blank"><img src="https://img.shields.io/twitter/follow/samarfied?logo=twitter&style=for-the-badge" alt="samardotexe" /></a> </p>
+<p align="center"> <a href="https://twitter.com/samardotexe" target="blank"><img src="https://img.shields.io/twitter/follow/samardotexe?logo=twitter&style=for-the-badge" alt="samardotexe" /></a> </p>
 
 <hr>
 
