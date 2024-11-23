@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samar Ali Ansari</h1>
+<h1 align="center">ssup 👋, I'm Samar</h1>
 <hr>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **samardotexe@gmail.com**
+
+- 🌱 For work related inquiries **work4samar@gmail.com**
 
 <hr>
 <h3 align="center">Connect with me:</h3>
